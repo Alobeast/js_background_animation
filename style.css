@@ -28,11 +28,11 @@
 .container span::before {
   content: "";
   position: absolute;
-  background: url(https://preview.redd.it/standing-on-business-in-the-senate-v0-ddi44xrqtg0c1.jpeg?width=960&format=pjpg&auto=webp&s=559ed7841047416126fd0f3b2187abca2b4d41b6);
+  background: url(https://picsum.photos/1920/1080);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  transition: 8s;
+  transition: 14s;
   opacity: 0;
   pointer-events: none;
   width: 100%;
